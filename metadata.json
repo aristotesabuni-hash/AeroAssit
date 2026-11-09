@@ -1,0 +1,6 @@
+{
+  "name": "AeroAssist AI",
+  "description": "Assistant passagers basé sur base documentaire validée et outil de supervision réseau pour laboratoire isolé EVE-NG (Projet académique Licence 3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
